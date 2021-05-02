@@ -2,8 +2,10 @@ from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 import numpy as np
 from PIL import Image
+import os
+from os import path
 
-book_mask = np.array(Image.open("livro.png"))
+book_mask = np.array(Image.open("./data/livro.png"))
 
 book_dict = {
     'História da Sua Vida e Outros Contos': 1,
