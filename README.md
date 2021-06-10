@@ -13,6 +13,11 @@ If you spot any improvement possibility, feel free to open an issue.
   <img src="charts/age_hist.png" width="600">
 </p>
 
+2. Waterfall plot of cashflow: code at [src/waterfall_plot.py](https://github.com/loft-br/data-viz-catalog/blob/main/src/waterfall_plot.py)
+<p align="center">
+  <img src="charts/waterfall_plot.png" width="600">
+</p>
+
 ### Part of a Whole
 1. Venn diagram of study areas: code at [src/area_venn.py](https://github.com/loft-br/data-viz-catalog/blob/main/src/area_venn.py)
 <p align="center">
